@@ -1,0 +1,16 @@
+﻿Build started 19/10/2016 13:55:19.
+     1>Project "D:\Docs\Git\SpaceGame\SpaceGame\SpaceGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Grid.cpp
+         Grid.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Docs\Git\SpaceGame\Debug\SpaceGame.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Docs\Git\SpaceGame\Debug\SpaceGame.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Docs\Git\SpaceGame\Debug\SpaceGame.lib" /MACHINE:X86 Debug\Entity.obj
+         Debug\Grid.obj
+         Debug\main.obj
+         Debug\Player.obj
+         SpaceGame.vcxproj -> D:\Docs\Git\SpaceGame\Debug\SpaceGame.exe
+     1>Done Building Project "D:\Docs\Git\SpaceGame\SpaceGame\SpaceGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.74
